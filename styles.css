@@ -7,7 +7,9 @@ margin: 0px;
 .button:hover{
     opacity: 0.7;
 }
-
+.img{
+    margin-left: 45%;
+}
 .button{
     background-color: aqua;
     float: right;
