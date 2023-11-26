@@ -202,10 +202,10 @@ a{
   }
   
   .logo{
-    margin-left: 700px;
+    margin-left: 60%;
   }
   .name{
-    margin-left: 600px;
+    margin-left: 40%;
     color: rgb(154, 154, 154); ;
   }
   .twitter1:hover{
@@ -224,7 +224,7 @@ a{
   }
   .footer1{
     margin-top: 25px;
-    margin-left: 700px;
+    margin-left: 47%;
   }
   .portfolio{
     width: 40%;
